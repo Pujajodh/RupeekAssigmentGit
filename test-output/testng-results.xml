@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14899" started-at="2020-04-27T11:31:28Z" finished-at="2020-04-27T11:31:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14899" started-at="2020-04-27T11:31:28Z" finished-at="2020-04-27T11:31:43Z">
+      <class name="org.RupeekAssign.Assignment.Rupeek_01">
+        <test-method status="PASS" signature="baseURL()[pri:0, instance:org.RupeekAssign.Assignment.Rupeek_01@14acaea5]" name="baseURL" is-config="true" duration-ms="471" started-at="2020-04-27T11:31:28Z" finished-at="2020-04-27T11:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseURL -->
+        <test-method status="PASS" signature="getToken()[pri:0, instance:org.RupeekAssign.Assignment.Rupeek_01@14acaea5]" name="getToken" duration-ms="14881" started-at="2020-04-27T11:31:28Z" finished-at="2020-04-27T11:31:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToken -->
+      </class> <!-- org.RupeekAssign.Assignment.Rupeek_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
